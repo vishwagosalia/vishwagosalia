@@ -1,4 +1,4 @@
-I'm very much interested in data science but still a struggler, although I've good command over Web Development using Laravel and MySQL. Open for collab and open to work with different technologies. 
+### Hi there 👋 I'm very much interested in data science but still a struggler, although I've good command over Web Development using Laravel and MySQL. Open for collab and open to work with different technologies. 
 
 - 🔭 I’m currently pursuing Engineering in IT field.
 - 🌱 I’ve recently started with data science and still a noob.
